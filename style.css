@@ -28,7 +28,7 @@ body {
     padding: 5px;
   }
   
-  #monsterStats {
+  #enemyStats {
     display: none;
     border: 1px black solid;
     color: white;
